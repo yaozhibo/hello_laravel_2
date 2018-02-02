@@ -40,15 +40,15 @@
             height: 60px;
             background-color: #00b5ad;
         }
-        .container {
+        .footer .container {
             padding-right: 15px;
             padding-left: 15px;
         }
-        p {
+        .footer .container p {
             margin: 19px 0;
             color: #fff;
         }
-        a {
+        .footer .container a {
             color: inherit;
         }
     </style>
